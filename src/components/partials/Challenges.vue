@@ -30,11 +30,6 @@
                         The insured often struggle to get reimbursed by large corporations, whose profits rely on investing customer premiums rather than paying out claims when they are needed the most.
                         The underinsured miss out on life-changing insurance benefits due to policies being expensive, opaque, and inefficient.
                     </p>
-                    <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
-                        <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </a>
                 </div>
                 <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
                     <a href="#" class="bg-purple-100 text-purple-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-purple-400 mb-2">
@@ -49,11 +44,6 @@
                         High operational costs are incurred to collect, analyse, and store vast amounts of customer and industry data in large, proprietary silos.
                         New entrants face significant barriers to entry due to complex regulations, limiting their ability to introduce disruptive innovations.
                     </p>
-                    <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
-                        <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </a>
                 </div>
                 <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
                     <a href="#" class="bg-orange-100 text-purple-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-purple-400 mb-2">
@@ -66,11 +56,6 @@
                     <p class="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                         Customer premiums (risk pools) are highly attractive as investment instruments, but they remain inaccessible to most investors and customers themselves.
                     </p>
-                    <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline font-medium text-lg inline-flex items-center">Read more
-                        <svg class="w-3.5 h-3.5 ml-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </a>
                 </div>
             </div>
         </div>
