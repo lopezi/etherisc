@@ -2,6 +2,8 @@
 import Header from './components/Header.vue'
 import Plateau from './components/Plateau.vue'
 import Challenges from './components/partials/Challenges.vue'
+import News from './components/partials/News.vue'
+import Solutions from './components/partials/Solutions.vue'
 import Footer from './components/Footer.vue'
 </script>
 
@@ -10,6 +12,8 @@ import Footer from './components/Footer.vue'
     <Header />
     <Plateau />
     <Challenges />
+    <News />
+    <Solutions />
     <Footer />
   </div>
 </template>

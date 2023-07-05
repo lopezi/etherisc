@@ -1,13 +1,13 @@
 <template>
-    <footer class="text-left p-4 bg-white sm:p-6 dark:bg-gray-800">
+    <footer class="text-left mt-6 p-4 bg-white sm:p-6 dark:bg-gray-800">
         <div class="max-w-screen-xl mx-auto">
             <div class="md:flex md:justify-between">
-                <div class="mb-6 md:mb-0">
+                <div class="mb-2 md:mb-0">
                     <a href="https://etherisc.com" class="flex items-center">
                         <img src="https://uploads-ssl.webflow.com/6243075ff83d08a79dc7b307/62430b9f2fb99352e8fca26f_2019_Etherisc_Logo.svg" class="h-8 mr-3" alt="Etherisc Logotype" />
                     </a>
                 </div>
-                <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+                <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-4">
                     <div>
                         <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
                         <ul class="text-gray-600 dark:text-gray-400">
@@ -20,13 +20,33 @@
                         </ul>
                     </div>
                     <div>
+                        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">PRODUCTS</h2>
+                        <ul class="text-gray-600 dark:text-gray-400">
+                            <li class="mb-4">
+                                <a href="https://staking.etherisc.com/" class="hover:underline ">Staking</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="https://depeg.etherisc.com/" class="hover:underline">Depeg</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="https://fdd.etherisc.com/#/" class="hover:underline">Flight Delay</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
                         <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
                         <ul class="text-gray-600 dark:text-gray-400">
                             <li class="mb-4">
+                                <a href="https://etherisc.com/faq" class="hover:underline">Team</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="https://etherisc.com/faq" class="hover:underline">FAQ</a>
+                            </li>
+                            <li class="mb-4">
                                 <a href="https://etherisc.com" class="hover:underline">Whitepaper</a>
                             </li>
-                            <li>
-                                <a href="https://tailwindcss.com/" class="hover:underline">F.A.Q.</a>
+                            <li class="mb-4">
+                                <a href="https://docs.etherisc.com/" class="hover:underline">GIF Docs</a>
                             </li>
                         </ul>
                     </div>
@@ -34,7 +54,7 @@
                         <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Join us</h2>
                         <ul class="text-gray-600 dark:text-gray-400">
                             <li class="mb-4">
-                                <a href="https://github.com/" class="hover:underline ">Github</a>
+                                <a href="https://github.com/etherisc" class="hover:underline ">Github</a>
                             </li>
                             <li class="mb-4">
                                 <a href="https://discord.gg/7pT4ZNXbAe" class="hover:underline">Discord</a>
@@ -42,9 +62,14 @@
                             <li class="mb-4">
                                 <a href="https://twitter.com/etherisc" class="hover:underline">Twitter</a>
                             </li>
+                            <li class="mb-4">
+                                <a href="https://forum.etherisc.com/" class="hover:underline">Forum</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="https://blog.etherisc.com/" class="hover:underline">News</a>
+                            </li>
                         </ul>
                     </div>
-
                 </div>
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
