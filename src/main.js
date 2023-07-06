@@ -10,6 +10,7 @@ import About from './routes/About.vue'
 
 const router = createRouter({
     history: createWebHistory(),
+    linkActiveClass: 'etherisc-active-link',
     routes: [
         {path: '/', name: 'Landing', component: Landing},
         {path: '/products', name: 'Products', component: Products},
