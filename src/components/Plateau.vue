@@ -19,12 +19,12 @@
             </div>-->
             <div class="px-4">
                 <div class="grid gap-4 grid-cols-1 sm:grid-cols-3 items-center justify-center mt-8 text-gray-500 sm:justify-between">
-                    <a href="#" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                        <Card header="Invest" body="Provide capital for innovative, fair and accessible insurance products." cta="Investment guidelines"  />
+                    <a href="https://staking.etherisc.com/" target="_blank" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                        <Card header="Invest" body="Provide capital for innovative, fair and accessible insurance products." cta="Invest" />
                     </a>
-                    <a href="#" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
-                        <Card header="Build" body="Quickly and easily build and distribute parametric insurance products." cta="Learn how"  />
-                    </a>
+                    <router-link to="/partner" class="block py-2 pl-3 pr-4 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-blue-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">
+                        <Card header="Partner" body="Quickly and easily build and distribute parametric insurance products." cta="Learn how"  />
+                    </router-link>
                     <a href="#" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Join" body="Become part of our thriving, decentralized insurance ecosystem." cta="Let's go"  />
                     </a>

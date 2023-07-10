@@ -3,8 +3,7 @@
 ## run locally
 
 ```
-$ npm start
-$ vite serve
+$ vite
 ```
 
 ### Deploying From Your Terminal
