@@ -8,7 +8,7 @@
                     </svg>
                     Today's insurance
                 </span>
-                <h1 class="text-sky-500 dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Unleashing the Insurance Industry</h1>
+                <h1 class="text-special-blue dark:text-white text-3xl md:text-5xl font-extrabold mb-2">Unleashing the Insurance Industry</h1>
                 <p class="text-xl font-normal text-gray-500 dark:text-gray-400">The insurance industry is primed for disruption through the implementation of blockchain technology. The current state of the industry is plagued by issues that need to be addressed.</p>
             </div>
             <div class="grid md:grid-cols-3 gap-8">
