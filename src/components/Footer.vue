@@ -1,7 +1,7 @@
 <template>
     <footer class="text-left p-4 pt-12 bg-yellow-600 sm:p-6 dark:bg-gray-800">
         <div class="max-w-screen-xl mx-auto">
-            <div class="md:flex md:justify-between">
+            <div class="md:flex md:justify-between mt-8">
                 <div class="mb-2 md:mb-0">
                     <a href="https://etherisc.com" class="flex items-center">
                         <img src="https://depeg.etherisc.com/etherisc_logo_white.svg" class="h-8 mr-3" alt="Etherisc Logotype" />
@@ -9,7 +9,7 @@
                 </div>
                 <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-4">
                     <div>
-                        <h2 class="mb-6 text-lg font-semibold text-yellow-900 uppercase dark:text-white">Legal</h2>
+                        <h2 class="mb-6 text-lg font-semibold text-white uppercase dark:text-white">Legal</h2>
                         <ul class="text-yellow-300 dark:text-gray-400">
                             <li class="mb-4">
                                 <a href="#" class="hover:underline">Privacy Policy</a>
@@ -20,7 +20,7 @@
                         </ul>
                     </div>
                     <div>
-                        <h2 class="mb-6 text-lg font-semibold text-yellow-900 uppercase dark:text-white">PRODUCTS</h2>
+                        <h2 class="mb-6 text-lg font-semibold text-white uppercase dark:text-white">PRODUCTS</h2>
                         <ul class="text-yellow-300 dark:text-gray-400">
                             <li class="mb-4">
                                 <a href="https://staking.etherisc.com/" class="hover:underline ">Staking</a>
@@ -34,7 +34,7 @@
                         </ul>
                     </div>
                     <div>
-                        <h2 class="mb-6 text-lg font-semibold text-yellow-900 uppercase dark:text-white">Resources</h2>
+                        <h2 class="mb-6 text-lg font-semibold text-white uppercase dark:text-white">Resources</h2>
                         <ul class="text-yellow-300 dark:text-gray-400">
                             <li class="mb-4">
                                 <a href="https://etherisc.com/faq" class="hover:underline">Team</a>
@@ -54,7 +54,7 @@
                         </ul>
                     </div>
                     <div>
-                        <h2 class="mb-6 text-lg font-semibold text-yellow-900 uppercase dark:text-white">Join us</h2>
+                        <h2 class="mb-6 text-lg font-semibold text-white uppercase dark:text-white">Join us</h2>
                         <ul class="text-yellow-300 dark:text-gray-400">
                             <li class="mb-4">
                                 <a href="https://github.com/etherisc" class="hover:underline ">Github</a>
