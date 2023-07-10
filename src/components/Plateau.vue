@@ -1,6 +1,6 @@
 <template>
     <section class="bg-white bg-plateau dark:bg-gray-900">
-        <div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:py-16 lg:px-12">
+        <div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:pt-24 lg:pb-12 lg:px-12">
             <a href="https://depeg.etherisc.com/" class="inline-flex items-center justify-between px-1 py-1 pr-4 text-sm text-gray-700 bg-gray-100 rounded-full mb-7 dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
                 <span class="text-xs bg-blue-600 rounded-full text-white px-4 py-1.5 mr-3">New</span> <span class="text-sm font-medium">Depeg insurance is now live!</span>
                 <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
@@ -17,7 +17,7 @@
                     Watch video
                 </a>
             </div>-->
-            <div class="px-4">
+            <div class="px-4 mt-24">
                 <div class="grid gap-4 grid-cols-1 sm:grid-cols-3 items-center justify-center mt-8 text-gray-500 sm:justify-between">
                     <a href="https://staking.etherisc.com/" target="_blank" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Invest" body="Provide capital for innovative, fair and accessible insurance products." cta="Invest" />
