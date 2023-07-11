@@ -1,8 +1,8 @@
 <template>
     <section class="bg-white bg-plateau dark:bg-gray-900">
         <div class="max-w-screen-xl px-4 py-8 mx-auto text-center lg:pt-24 lg:pb-12 lg:px-12">
-            <a href="https://depeg.etherisc.com/" class="inline-flex items-center justify-between px-1 py-1 pr-4 text-sm text-gray-700 bg-gray-100 hover:text-blue-700 rounded-full mb-7 dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
-                <span class="text-xs bg-blue-600 rounded-full text-white px-4 py-1.5 mr-3">New</span> <span class="text-sm font-medium">Depeg insurance is now live!</span>
+            <a href="https://github.com/etherisc/gif-sandbox" class="inline-flex items-center justify-between px-1 py-1 pr-4 text-sm text-gray-700 bg-gray-100 hover:text-blue-700 rounded-full mb-7 dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
+                <span class="text-xs bg-blue-600 rounded-full text-white px-4 py-1.5 mr-3">New</span> <span class="text-sm font-medium">GIF sandbox is now live!</span>
                 <svg class="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
             </a>
             <h1 class="mb-4 text-5xl font-extrabold leading-none tracking-tight text-special-blue lg:text-6xl dark:text-white">Make insurance fair and accessible</h1>
