@@ -4,6 +4,7 @@
     <Challenges />
     <News />
     <Solutions />
+    <Partners />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import Plateau from '../components/Plateau.vue'
 import Challenges from '../components/partials/Challenges.vue'
 import News from '../components/partials/News.vue'
 import Solutions from '../components/partials/Solutions.vue'
+import Partners from "../components/partials/Partners.vue";
 </script>
 
 <script>

@@ -6,6 +6,12 @@ div ul li a.etherisc-active-link {
   color: rgb(26 86 219);
 }
 
+.partners a img {
+
+    /*filter: grayscale(100%);*/
+
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
