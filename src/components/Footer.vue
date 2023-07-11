@@ -49,6 +49,9 @@
                                 <a href="https://docs.etherisc.com/" class="hover:underline">GIF Docs</a>
                             </li>
                             <li class="mb-4">
+                                <a href="https://github.com/etherisc/gif-sandbox" class="hover:underline">GIF Sandbox</a>
+                            </li>
+                            <li class="mb-4">
                                 <a to="/partner"  class="hover:underline">Partner</a>
                             </li>
                         </ul>
