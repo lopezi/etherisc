@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     colors: {
       'special-blue': 'rgb(33, 53, 71)',
+      'baby-blue':     '#d4effe',
       'footer-color': 'rgb(59, 0, 185)',
       'sky-300'     :  'rgb(125, 211, 252)',
       'sky-400'     :  'rgb(56, 189, 248)',

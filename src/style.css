@@ -7,9 +7,7 @@ div ul li a.etherisc-active-link {
 }
 
 .partners a img {
-
     /*filter: grayscale(100%);*/
-
 }
 
 :root {
@@ -29,7 +27,6 @@ div ul li a.etherisc-active-link {
 }
 
 .bg-challenges {
-  background-color: #16abff33;
   background-image: url("./assets/blur.png");
   background-position: bottom -250px right -250px;
   background-repeat: no-repeat;

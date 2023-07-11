@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-challenges">
+    <section class="bg-blue-100">
         <div class="text-left py-8 px-4 mx-auto max-w-screen-xl lg:py-24">
             <div class="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12 mb-8">
                 <span class="bg-blue-100 text-blue-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded-md dark:bg-gray-700 dark:text-blue-400 mb-2">
