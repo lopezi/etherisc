@@ -23,8 +23,20 @@ div ul li a.etherisc-active-link {
 }
 
 .bg-challenges {
-  background: #16abff33;
+  background-color: #16abff33;
+  background-image: url("./assets/blur.png");
+  background-position: bottom -250px right -250px;
+  background-repeat: no-repeat;
+  background-size: 555px;
 }
+
+.bg-solutions {
+  background-image: url("./assets/blur.png");
+  background-position: bottom -250px right -250px;
+  background-repeat: no-repeat;
+  background-size: 1111px;
+}
+
 
 .bg-plateau {
   background-image: url("./assets/intro.jpg");
