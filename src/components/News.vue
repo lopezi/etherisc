@@ -9,7 +9,7 @@
                     <h2 class="text-3xl mt-12 tracking-tight " >Etherisc teams up with Chainlink to deliver crop insurance in Kenya</h2>
                     <button type="button" class="text-white bg-yellow-400 hover:bg-yellow-500 focus:outline-none focus:ring-4 focus:ring-yellow-300 font-medium rounded-full text-sm px-5 py-2.5 text-center m-2 dark:focus:ring-yellow-900">Read article</button>
                 </div>
-                <img src="../../assets/news-source.jpg" class="z-0 absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../assets/news-source.jpg" class="z-0 absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
             <!-- Item 2 -->
             <div class="hidden duration-1000 ease-in-out" data-carousel-item>
@@ -28,7 +28,7 @@
                     <h2 class="text-3xl mt-12 tracking-tigh" >Expand Inclusive Insurance in Sri Lanka </h2>
                     <button type="button" class="text-white bg-yellow-400 hover:bg-yellow-500 focus:outline-none focus:ring-4 focus:ring-yellow-300 font-medium rounded-full text-sm px-5 py-2.5 text-center m-2 dark:focus:ring-yellow-900">Read article</button>
                 </div>
-                <img src="../../assets/news-source-2.jpg" class="z-0 absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../assets/news-source-2.jpg" class="z-0 absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
         </div>
         <!-- Slider indicators -->

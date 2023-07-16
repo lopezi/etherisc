@@ -3,6 +3,7 @@
     <Plateau />
     <Challenges />
     <News />
+    <PublicRelations />
     <Solutions />
     <PartnerLogos />
   </div>
@@ -10,10 +11,11 @@
 
 <script setup>
 import Plateau from '../components/Plateau.vue'
-import Challenges from '../components/partials/Challenges.vue'
-import News from '../components/partials/News.vue'
-import Solutions from '../components/partials/Solutions.vue'
-import PartnerLogos from "../components/partials/PartnerLogos.vue";
+import Challenges from '../components/Challenges.vue'
+import News from '../components/News.vue'
+import PublicRelations from "../components/PublicRelations.vue";
+import Solutions from '../components/Solutions.vue'
+import PartnerLogos from "../components/PartnerLogos.vue";
 </script>
 
 <script>
