@@ -13,7 +13,7 @@
             </div>
 
             <div class="grid md:grid-cols-2 gap-8 mb-12">
-                <div class="bg-purple-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+                <div class="relative overflow-x-auto bg-purple-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
                     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                         <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                         <tr>
@@ -80,7 +80,7 @@
                         </tbody>
                     </table>
                 </div>
-                <div class="bg-purple-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
+                <div class="relative overflow-x-auto bg-purple-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-8 md:p-12">
                     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                         <thead class="bg-gray-50 text-xs text-gray-700 uppercase dark:bg-gray-700 dark:text-gray-400">
                         <tr>
