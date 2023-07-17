@@ -23,13 +23,19 @@
                         <h2 class="mb-6 text-xl font-semibold text-white uppercase dark:text-white">PRODUCTS</h2>
                         <ul class="text-yellow-300 dark:text-gray-400">
                             <li class="mb-4">
-                                <a href="https://staking.etherisc.com/" class="hover:underline ">Staking</a>
+                                <a href="#" class="hover:underline">Crop</a>
                             </li>
                             <li class="mb-4">
                                 <a href="https://depeg.etherisc.com/" class="hover:underline">Depeg</a>
                             </li>
                             <li class="mb-4">
+                                <a href="https://staking.etherisc.com/" class="hover:underline ">Staking</a>
+                            </li>
+                            <li class="mb-4">
                                 <a href="https://fdd.etherisc.com/#/" class="hover:underline">Flight Delay</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Carbon credit</a>
                             </li>
                         </ul>
                     </div>
@@ -72,7 +78,10 @@
                                 <a href="https://forum.etherisc.com/" class="hover:underline">Forum</a>
                             </li>
                             <li class="mb-4">
-                                <a href="https://blog.etherisc.com/" class="hover:underline">News</a>
+                                <a href="https://blog.etherisc.com/" class="hover:underline">Blog</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="https://blog.etherisc.com/" class="hover:underline">Contact</a>
                             </li>
                         </ul>
                     </div>

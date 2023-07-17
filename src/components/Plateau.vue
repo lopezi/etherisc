@@ -17,7 +17,7 @@
                     Watch video
                 </a>
             </div>-->
-            <div class="px-4 mt-48">
+            <div class="px-4 mt-32 mb-12">
                 <div class="grid gap-4 grid-cols-1 sm:grid-cols-3 items-center justify-center mt-8 text-gray-500 sm:justify-between">
                     <a href="https://staking.etherisc.com/" target="_blank" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Invest" body="Provide capital for innovative, fair and accessible insurance products." cta="Invest" />
