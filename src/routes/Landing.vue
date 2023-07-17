@@ -5,7 +5,6 @@
     <News />
     <PublicRelations />
     <Solutions />
-    <OneVsOther />
     <PartnerLogos />
   </div>
 </template>
@@ -16,7 +15,6 @@ import Challenges from '../components/Challenges.vue'
 import News from '../components/News.vue'
 import PublicRelations from "../components/PublicRelations.vue";
 import Solutions from '../components/Solutions.vue'
-import OneVsOther from "../components/OneVsOther.vue";
 import PartnerLogos from "../components/PartnerLogos.vue";
 </script>
 

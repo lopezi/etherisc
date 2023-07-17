@@ -7,10 +7,8 @@
 </script>
 
 <template>
-    <div class="text-left p-6 bg-white hover:bg-gray-100 border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-
-            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-special-blue dark:text-white">{{ header }}</h5>
-
+    <div class="text-left p-6 bg-white hover:bg-blue-100 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <h5 class="mb-2 text-2xl font-semibold tracking-tight text-special-blue dark:text-white">{{ header }}</h5>
         <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">{{ body }}</p>
         <div href="{{ link }}" class="inline-flex items-center text-blue-600 hover:underline">
             {{ cta }}
