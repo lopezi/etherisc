@@ -19,13 +19,13 @@
             </div>-->
             <div class="px-4 mt-32 mb-12">
                 <div class="grid gap-4 grid-cols-1 sm:grid-cols-3 items-center justify-center mt-8 text-gray-500 sm:justify-between">
-                    <a href="https://staking.etherisc.com/" target="_blank" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <a href="https://staking.etherisc.com/" target="_blank" class="mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Invest" body="Provide capital for innovative, fair and accessible insurance products." cta="Invest" />
                     </a>
-                    <a href="mailto:contact@etherisc.com" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <a href="mailto:contact@etherisc.com" class="mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Partner" body="Quickly and easily build and distribute parametric insurance products." cta="Start here"  />
                     </a>
-                    <a href="#" class="mb-5 mr-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
+                    <a href="#" class="mb-5 lg:mb-0 hover:text-gray-800 dark:hover:text-gray-400">
                         <Card header="Join" body="Become part of our thriving, decentralized insurance ecosystem." cta="Join now"  />
                     </a>
                 </div>
