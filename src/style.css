@@ -61,8 +61,8 @@ div ul li a.etherisc-active-link {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .bg-plateau::after {
-    width: 10%;
-    height: 3%;
+    width: 11%;
+    height: 4%;
 
   }
 }
