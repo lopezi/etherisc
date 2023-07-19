@@ -46,6 +46,37 @@ div ul li a.etherisc-active-link {
   background-size: cover;
 }
 
+.bg-plateau::after {
+  background-image: url("./assets/flight-delay-blockchain-parametric-insurance.svg");
+  background-size: cover;
+  content: '';
+  position: absolute;
+  right: 10px;
+  top: 155px;
+  width: 4%;
+  height: 3%;
+  animation: flight 122.7s infinite;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .bg-plateau::after {
+    width: 8%;
+    height: 3%;
+
+  }
+}
+
+@keyframes flight {
+  0% {
+    transform: translate(-10px, 35px);
+  }
+  100% {
+    transform: translate(-2700px, 35px);
+  }
+}
+
+
 
 body {
   margin: 0;
