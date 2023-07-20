@@ -6,7 +6,6 @@ import Landing from "./routes/Landing.vue";
 import Products from './routes/Products.vue'
 import Resources from './routes/Resources.vue'
 import Token from './routes/Token.vue'
-import About from './routes/About.vue'
 
 const router = createRouter({
     history: createWebHistory(),
@@ -15,8 +14,7 @@ const router = createRouter({
         {path: '/', name: 'Landing', component: Landing},
         {path: '/products', name: 'Products', component: Products},
         {path: '/resources', name: 'Resources', component: Resources},
-        {path: '/token', name: 'token', component: Token},
-        {path: '/about', name: 'about', component: About}
+        {path: '/token', name: 'token', component: Token}
     ]
 })
 
